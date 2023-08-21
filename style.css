@@ -1,0 +1,7 @@
+input {
+    width: 5rem;
+}
+
+input[data-formula] {
+    border-color: blue;
+}
